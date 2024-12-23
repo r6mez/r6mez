@@ -20,7 +20,7 @@ a passionate **computer science student** and **competitive programmer**.
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=r6mez&show_icons=true&theme=radical)  
 
 ---
 
