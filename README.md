@@ -13,10 +13,10 @@ a passionate **computer science student** and **competitive programmer**.
 
 ## 📊 Codeforces Status
 - **Handle**: [R6mez](https://codeforces.com/profile/R6mez)
-- **Current Rating**: ![Current Rating](https://codeforces-readme-stats.vercel.app/api?username=R6mez&theme=radical&showRatings=true)
-- **Max Rating**: ![Max Rating](https://codeforces-readme-stats.vercel.app/api?username=R6mez&theme=radical&showMaxRating=true)
-- **Rank**: ![Rank](https://codeforces-readme-stats.vercel.app/api?username=R6mez&theme=radical&showRank=true)
-- **Number of Contests**: ![Contests](https://codeforces-readme-stats.vercel.app/api?username=R6mez&theme=radical&showContests=true)
+- **Current Rating**: [![Current Rating](https://codeforces-readme-stats.vercel.app/api?username=R6mez&theme=radical&showRatings=true)](https://codeforces.com/profile/R6mez)
+- **Max Rating**: [![Max Rating](https://codeforces-readme-stats.vercel.app/api?username=R6mez&theme=radical&showMaxRating=true)](https://codeforces.com/profile/R6mez)
+- **Rank**: [![Rank](https://codeforces-readme-stats.vercel.app/api?username=R6mez&theme=radical&showRank=true)](https://codeforces.com/profile/R6mez)
+- **Number of Contests**: [![Contests](https://codeforces-readme-stats.vercel.app/api?username=R6mez&theme=radical&showContests=true)](https://codeforces.com/profile/R6mez)
 
 ---
 
