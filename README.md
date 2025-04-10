@@ -1,19 +1,18 @@
-# Hi, I'm Ramez Medhat! 🪐
+![](logo.png)
 
-🎓 **Computer Science Student** at Zagazig University 
+# Hi ✨
+- I'm **Ramez Medhat**
+- **2nd year computer science student** @ Zagazig University 
+- Specialist @ [Codeforces](https://codeforces.com/profile/r6mez)
+- Teachnical Head @ [ICPC ZU Community](icpczagazig.com)
+- Backend track member @ [IEEE ZSB CS Chapter](https://ieee-zsb.org/)
 
-## 🛠 Technical Skills  
+## 💻 Technical Skills  
 
 - **Languages:** C++, Dart, Python, HTML, CSS, JavaScript, PHP, SQL  
 - **Technologies:** Flutter, React, Laravel, MySQL, Firebase, Node.js  
 - **Tools:** Git, GitHub, Linux, LaTeX, Markdown  
 
-## 📊 GitHub Stats  
-
-![Ramez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=r6mez&show_icons=true&theme=radical)  
-
-
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r6mez/)  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iramezdev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r6mez/)  [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iramezdev@gmail.com)   [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/r6mez)   [![X](https://img.shields.io/badge/X-%2312100E.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/R6mezMedhat)
