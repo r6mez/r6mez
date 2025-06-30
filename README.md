@@ -2,16 +2,17 @@
 
 # Hi ✨
 **Who am I?**
-- ***2nd year computer science student*** @ *Zagazig University*
+- ***3nd year computer science student*** @ *Zagazig University*
 - ***Specialist*** @ [*Codeforces*](https://codeforces.com/profile/r6mez)
 - ***Teachnical Head*** @ [*ICPC ZU Community*](icpczagazig.com)
 - ***Backend track member*** @ [*IEEE ZSB CS Chapter*](https://ieee-zsb.org/)
 
 ## 💻 Technical Skills  
 
-- ***Languages:** C++, Dart, Python, HTML, CSS, JavaScript, PHP, SQL*
-- ***Technologies:** Flutter, React, Laravel, MySQL, Firebase, Node.js*  
-- ***Tools:** Git, GitHub, Linux, LaTeX, Markdown*  
+- ***Languages:** C++, Python, Dart, PHP, JavaScript, HTML, CSS, SQL*
+- ***Frameworks & Libraries:** Flutter, React, Laravel, Node.js, Tailwind CSS*
+- ***Databases:** MySQL, Firebase*
+- ***Tools & Technologies:** Git, GitHub, Linux, LaTeX, Markdown*  
 
 ## 📫 Don't be Shy
 
