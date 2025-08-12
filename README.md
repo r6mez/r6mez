@@ -3,7 +3,8 @@
 # Hi ✨
 ## **Who am I?**
 - ***3rd year computer science student***, *Zagazig University*
-- ***Specialist*** on [*Codeforces*](https://codeforces.com/profile/r6mez)
+- **SWE Intern**, [*Procore Technologies*](https://www.procore.com/en-ae)
+- **ECPC Finalist** and ***Specialist*** on [*Codeforces*](https://codeforces.com/profile/r6mez)
 - ***Teachnical Head***, [*ICPC ZU Community*](icpczagazig.com)
 - ***Backend track member***, [*IEEE ZSB CS Chapter*](https://ieee-zsb.org/)
 
