@@ -1,4 +1,4 @@
-![](logo.png)
+<img width="1440" height="377" alt="Banner" src="https://github.com/user-attachments/assets/7d796cce-c22e-4e22-b4e2-3cea6b0b029e" />
 
 # Hi ✨
 ## **Who am I?**
