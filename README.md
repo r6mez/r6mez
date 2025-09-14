@@ -17,5 +17,3 @@
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r6mez/)  [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iramezdev@gmail.com)   [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/r6mez)   [![X](https://img.shields.io/badge/X-%2312100E.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/R6mezMedhat)
-
-<img width="1440" height="377" alt="Banner" src="https://github.com/user-attachments/assets/7d796cce-c22e-4e22-b4e2-3cea6b0b029e" />
