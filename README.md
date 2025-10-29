@@ -8,10 +8,10 @@
 
 ## Skills  
 
-- **Programming Languages:** *C++, Python, Dart, PHP, JavaScript, SQL.*
+- **Programming Languages:** *C++, Python, Ruby, Dart, PHP, JavaScript, SQL.*
 - **Markup & Style:** *HTML, CSS, Markdown, LaTeX.*
-- **Frameworks & Libraries:** *Flutter, React, Laravel, ExpressJS, Tailwind CSS*
-- **Databases:** *MySQL, SQLite, Supabase, MongoDB.*
+- **Frameworks & Libraries:** *Laravel, Rails, ExpressJS, NestJS, Flutter, React, Tailwind CSS*
+- **Databases:** *MySQL, PostgreSQL, SQLite, Supabase, MongoDB.*
 - **Tools:** *Git, GitHub, Linux.*  
 
 ## Let's Connect
