@@ -1,19 +1,3 @@
-# Hi ✨
-## **Who am I?**
-- **3rd year computer science student**, *Zagazig University*
-- **SWE Intern**, [*Procore Technologies*](https://www.procore.com/en-ae)
-- **ECPC'25 Finalist** and ***Expert*** on [*Codeforces*](https://codeforces.com/profile/r6mez)
-- **Teachnical Head**, [*ICPC ZU Community*](icpczagazig.com)
-- **Backend track member**, [*IEEE ZSB CS Chapter*](https://ieee-zsb.org/)
+I'm Ramez Medhat, 3rd year CS Student, SWE Intern at [*Procore Technologies*](https://www.procore.com/en-ae),  ECPC'25 Finalist, ***Expert*** on [*Codeforces*](https://codeforces.com/profile/r6mez), **Teachnical Head** at [*ICPC ZU Community*](icpczagazig.com), Interested in **Full-Stack Development**, **AI**, and Core CS like **Database**, **OS** and other. 
 
-## Skills  
-
-- **Programming Languages:** *C++, Python, Ruby, Dart, PHP, JavaScript, SQL.*
-- **Markup & Style:** *HTML, CSS, Markdown, LaTeX.*
-- **Frameworks & Libraries:** *Laravel, Rails, ExpressJS, NestJS, Flutter, React, Tailwind CSS*
-- **Databases:** *MySQL, PostgreSQL, SQLite, Supabase, MongoDB.*
-- **Tools:** *Git, GitHub, Linux.*  
-
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r6mez/)  [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iramezdev@gmail.com)   [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/r6mez)   [![X](https://img.shields.io/badge/X-%2312100E.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/R6mezMedhat)
+Connect through [Email](mailto:iramezdev@gmail.com) and [Linkedin](https://www.linkedin.com/in/r6mez/)
