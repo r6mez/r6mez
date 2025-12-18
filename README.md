@@ -1,3 +1,3 @@
 I'm **Ramez Medhat**, 3rd year **CS Student**, **Ex-SWE Intern** at [*Procore Technologies*](https://www.procore.com/en-ae), **ECPC'25** Finalist, ***Expert*** on [*Codeforces*](https://codeforces.com/profile/r6mez), **Teachnical Head** at [*ICPC ZU Community*](icpczagazig.com), Interested in **Full-Stack Development**, **AI**, and Core CS like **Database**, **Networks**, **OS** and other. 
 
-View my **CV** [`Here`](https://drive.google.com/file/d/17ThocNEP2B-E5RZpWPqNj3VBQ2MAWUvb/view?usp=sharing), and **Connect** through [`Email`](mailto:iramezdev@gmail.com) and [`Linkedin`](https://www.linkedin.com/in/r6mez/)
+View my **CV** [`Here`](https://drive.google.com/file/d/1z2O5AU-XLHXDLT6R7KrrZTlDZM1xuTGs/view?usp=drive_link), and **Connect** through [`Email`](mailto:iramezdev@gmail.com) and [`Linkedin`](https://www.linkedin.com/in/r6mez/)
