@@ -1,3 +1,5 @@
-I'm **Ramez Medhat**, 3rd year **CS Student**, **Ex-SWE Intern** at [*Procore Technologies*](https://www.procore.com/en-ae), **ECPC'25** Finalist, ***Expert*** on [*Codeforces*](https://codeforces.com/profile/r6mez), Interested in **Full-Stack Development**, **AI**, and Core CS like **Database**, **Networks**, **Operating Systems** and other. 
+Hi, I'm Ramez. I love what I'm doing.
 
-**Connect** through [`Email`](mailto:iramezdev@gmail.com) and [`Linkedin`](https://www.linkedin.com/in/r6mez/)
+[`Codeforces Account`](https://codeforces.com/profile/R6mez), [`Gnome Contributions`](https://gitlab.gnome.org/groups/GNOME/-/merge_requests/?sort=updated_asc&state=all&author_username=r6mez&first_page_size=50)
+
+**Connect** through [`Email`](mailto:iramezdev@gmail.com) or [`Linkedin`](https://www.linkedin.com/in/r6mez/)
