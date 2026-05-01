@@ -1,4 +1,4 @@
-Hi, I'm Ramez. I love what I'm doing.
+Hi, I'm **Ramez**. I love what I'm doing.
 
 [`Codeforces Account`](https://codeforces.com/profile/R6mez), [`Gnome Contributions`](https://gitlab.gnome.org/groups/GNOME/-/merge_requests/?sort=updated_asc&state=all&author_username=r6mez&first_page_size=50)
 
