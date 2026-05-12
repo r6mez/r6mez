@@ -12,7 +12,7 @@ Hi, I'm **Ramez**.
 **Projects** (backend-focused)
 - [Digital-Library-API](https://github.com/r6mez/Digital-Library-API) -> exploring authentication, routing, middlewares, and transactions. _(Javacript, ExpressJS, MongoDB)_.
 - [Flash-Sale-API](https://github.com/r6mez/Flash-Sale-API) -> exploring caching, concurrency, webhooks, and idempotency. _(PHP, Laravel, PostgreSQL, Redis)_.
-- [BioTrek](https://github.com/r6mez/BioTrek) -> exploring AI integration, embeddings, and RAG systems. _(NestJS + LangChain.js + ChromaDB)_.
+- [BioTrek](https://github.com/r6mez/BioTrek) -> exploring AI integration, embeddings, and RAG systems. _(NestJS, LangChain.js, ChromaDB)_.
 
 **Building:**
 - [App-Terminator](https://github.com/r6mez/App-Terminator) a unified uninstaller for linux.
