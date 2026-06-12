@@ -9,7 +9,7 @@ Hi, I'm **Ramez**.
   - Expert on Codeforces with +1.4k problems solved -> [My Account](https://codeforces.com/profile/R6mez)
   - Led as a technical head [@ICPC-Zagazig-Community](https://icpczagazig.org/) training 1,000+ students.
 
-**Projects** (backend-focused)
+**Projects**
 - [Digital-Library-API](https://github.com/r6mez/Digital-Library-API) -> exploring authentication, routing, middlewares, and transactions. _(Javacript, ExpressJS, MongoDB)_.
 - [Flash-Sale-API](https://github.com/r6mez/Flash-Sale-API) -> exploring caching, concurrency, webhooks, and idempotency. _(PHP, Laravel, PostgreSQL, Redis)_.
 - [BioTrek](https://github.com/r6mez/BioTrek) -> exploring AI integration, embeddings, and RAG systems. _(NestJS, LangChain.js, ChromaDB)_.
@@ -20,7 +20,8 @@ Hi, I'm **Ramez**.
 **Tech stack:**
 - **Backend:** ExpressJS/NestJS, PHP/Laravel, Ruby/Rails.
 - **Frontend:** ReactJS.
+- **Mobile:** React Native, Flutter.
 
-**Currently open for work opportunities.**
+**Currently open to work opportunities.**
 
 **Reach me** through [`Email`](mailto:iramezdev@gmail.com) or [`Linkedin`](https://www.linkedin.com/in/r6mez/)
