@@ -4,7 +4,7 @@ Hi, I'm **Ramez**.
 - 3rd year computer science student [@Zagazig-University](https://www.zu.edu.eg/) _GPA 3.94_
 - Ex Backend Engineer Intern [@Procore-Technologies](https://github.com/procore).
 - Open Source Contributor [@GNOME](https://www.gnome.org/) -> [My Contributions](https://gitlab.gnome.org/groups/GNOME/-/merge_requests/?sort=updated_asc&state=all&author_username=r6mez&first_page_size=50)
-- Competitive Programming Hobbyist,
+- Competitive Programming Hobbyist
   - ECPC 25' Finalist -> [My ICPC ID](https://icpc.global/ICPCID/SGIFM33IWCDV).
   - Expert on Codeforces with +1.4k problems solved -> [My Account](https://codeforces.com/profile/R6mez)
   - Led as a technical head [@ICPC-Zagazig-Community](https://icpczagazig.org/) training 1,000+ students.
